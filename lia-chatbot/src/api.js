@@ -1,4 +1,4 @@
-const API_URL = 'https://lia-chatbot-back.onrender.com, http://localhost:8080/api/chat';
+const API_URL = 'https://lia-chatbot-back.onrender.com';
 
 const postMessageToLia = async (message) => {
   try {
